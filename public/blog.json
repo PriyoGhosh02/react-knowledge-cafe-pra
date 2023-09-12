@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/tMyg8wr/1.jpg",
+        "title": "Exploring the Mysteries of Quantum Mechanics",
+        "author": "Dr. Samantha Smith",
+        "author_img": "https://i.ibb.co/GRh5Mk5/boy1.png",
+        "posted_date": "August 24, 2023 (24 days ago)",
+        "reading_time": 10,
+        "hashtags": ["#QuantumPhysics", "#Science", "#Exploration"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/St3296P/2.png",
+        "title": "The Art of Culinary Delights",
+        "author": "Chef Antoine Dupont",
+        "author_img": "https://i.ibb.co/VMHFXM8/boy2.jpg",
+        "posted_date": "August 5, 2023 (43 days ago)",
+        "reading_time": 15,
+        "hashtags": ["#CulinaryArt", "#Foodie", "#Recipes"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/X8HXYtG/3.png",
+        "title": "Mastering the Python Programming Language",
+        "author": "John Coder",
+        "author_img": "https://i.ibb.co/5Wjs91B/girl1.jpg",
+        "posted_date": "September 10, 2023 (3 days ago)",
+        "reading_time": 12,
+        "hashtags": ["#Python", "#Programming", "#Coding"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/ryJJM2R/4.jpg",
+        "title": "Discovering Hidden Treasures: Traveling the World",
+        "author": "Wanderlust Explorer",
+        "author_img": "https://i.ibb.co/1b0fYPb/girl2.jpg",
+        "posted_date": "August 30, 2023 (17 days ago)",
+        "reading_time": 20,
+        "hashtags": ["#Travel", "#Adventure", "#Wanderlust"]
+    }
+]
